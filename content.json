@@ -1,0 +1,160 @@
+{
+  "en": {
+    "nav": {
+      "rights": "Your Rights",
+      "register": "Register",
+      "resources": "Resources"
+    },
+    "hero": {
+      "eyebrow": "Telangana SIR Awareness Campaign",
+      "title": "SIR Exercise Begins June 25, 2026.",
+      "description": "We're a committed team working to raise awareness about voting rights in Telangana. Our goal is to empower every eligible voter with the knowledge and resources they need to participate confidently in the democratic process. ",
+      "primary": "Register Now",
+      "secondary": "Learn Your Rights"
+    },
+    "sections": {
+      "rights": {
+        "label": "Know Your Rights",
+        "title": "Voting in Telangana belongs to every eligible citizen.",
+        "cards": [
+          {
+            "title": "Right to Register",
+            "text": "Every citizen aged 18+ can enroll in the electoral roll and vote in local, state, and national elections."
+          },
+          {
+            "title": "Right to Information",
+            "text": "Access voter details, polling station locations, and election updates through official EC Telangana channels."
+          },
+          {
+            "title": "Right to a Fair Vote",
+            "text": "Use your EVM ballot confidentially and seek help from polling officials if you face any issues at the booth."
+          },
+          {
+            "title": "Right to Raise Concerns",
+            "text": "If you spot irregularities or obstacles, report them and request support from election officers."
+          }
+        ]
+      },
+      "register": {
+        "label": "How to Participate",
+        "title": "Simple steps to register and stay ready for the next election.",
+        "steps": [
+          {
+            "title": "Check Eligibility",
+            "text": "Be an Indian citizen residing in Telangana and at least 18 years old on election day."
+          },
+          {
+            "title": "Gather Documents",
+            "text": "Use Aadhaar, passport, driving license, or other valid proof of identity and address."
+          },
+          {
+            "title": "Apply Online",
+            "text": "Visit the Telangana CEO or ECI portal and complete Form 6 for voter registration."
+          },
+          {
+            "title": "Confirm Your Name",
+            "text": "Verify your entry in the electoral roll and locate your polling station ahead of time."
+          }
+        ]
+      },
+      "resources": {
+        "label": "Resources",
+        "title": "Helpful links for voter registration and election support.",
+        "cards": [
+          {
+            "title": "CEO Telangana",
+            "text": "Official portal for voter registration, election news, and polling information."
+          },
+          {
+            "title": "Election Commission of India",
+            "text": "National resources for voting rights, electoral laws, and citizen support."
+          },
+          {
+            "title": "Community Help",
+            "text": "Contact local groups for voter education, accessibility help, and election day planning."
+          }
+        ]
+      }
+    },
+    "footer": "Designed to raise voting rights awareness in Telangana. Take action, stay informed, and vote with confidence."
+  },
+  "te": {
+    "nav": {
+      "rights": "మీ హక్కులు",
+      "register": "నమోదు",
+      "resources": "వనరులు"
+    },
+    "hero": {
+      "eyebrow": "తెలంగాణ ఓటు హక్కుల అవగాహన",
+      "title": "తెలంగాణలో ప్రతి వాయిస్ను శక్తివంతం చేయండి.",
+      "description": "మీ హక్కులను తెలుసుకోండి, నమ్మకంతో నమోదు చేయండి, మరియు బలమైన తెలంగాణ కోసం మీ ఓటును ప్రభావితం చేయండి.",
+      "primary": "ఇప్పుడే నమోదు చేయండి",
+      "secondary": "మీ హక్కుల గురించి తెలుసుకోండి"
+    },
+    "sections": {
+      "rights": {
+        "label": "మీ హక్కులు తెలుసుకోండి",
+        "title": "తెలంగాణలో ఓటు ప్రతి అర్హ పౌరునికీది.",
+        "cards": [
+          {
+            "title": "నమోదు హక్కు",
+            "text": "18+ వయస్సు గల ప్రతి పౌరుడు ఓటర్ల జాబితాలో చేరి స్థానిక, రాష్ట్ర, జాతీయ ఎన్నికలలో ఓటు వేయవచ్చు."
+          },
+          {
+            "title": "సమాచార హక్కు",
+            "text": "అధికారిక EC తెలంగాణ ఛానళ్ల ద్వారా ఓటరు వివరాలు, పోలింగ్ స్టేషన్ స్థలాలు మరియు ఎన్నికల నవీకరణలను చూడగలరు."
+          },
+          {
+            "title": "న్యాయమైన ఓటు హక్కు",
+            "text": "మీ EVM ఓటును గోప్యంగా ఉపయోగించండి మరియు బూత్లో సమస్యలు ఎదురైతే పోలింగ్ అధికారులు నుండి సహాయం తీసుకోండి."
+          },
+          {
+            "title": "ఆందోళనలను తెలియజేయడం",
+            "text": "అసమానతలు లేదా అడ్డంకులు కనిపిస్తే, వాటిని నివేదించి ఎన్నికల అధికారులు నుండి మద్దతు కోరండి."
+          }
+        ]
+      },
+      "register": {
+        "label": "ఎలా పాల్గొనాలి",
+        "title": "తదుపరి ఎన్నికలకు నమోదు చేసుకోవడానికి సరళమైన దశలు.",
+        "steps": [
+          {
+            "title": "అర్హతను పరిశీలించండి",
+            "text": "తెలంగాణలో నివసించే భారత పౌరుడిగా మరియు ఎన్నిక రోజున కనీసం 18 ఏళ్ల వయస్సు ఉండాలి."
+          },
+          {
+            "title": "పత్రాలను సిద్ధం చేయండి",
+            "text": "ఆధార్, పాస్పోర్ట్, డ్రైవింగ్ లైసెన్స్ లేదా గుర్తింపు మరియు చిరునామాకు సరైన ఇతర పత్రాలను ఉపయోగించండి."
+          },
+          {
+            "title": "ఆన్‌లైన్ దరఖాస్తు చేయండి",
+            "text": "తెలంగాణ CEO లేదా ECI పోర్టల్‌లో వెళ్లి ఓటర్ రిజిస్ట్రేషన్ కోసం ఫారమ్ 6 పూర్తి చేయండి."
+          },
+          {
+            "title": "మీ పేరు నిర్ధారించండి",
+            "text": "ఓటర్ల జాబితాలో మీ ఎంట్రీని తనిఖీ చేసి, ముందుగా మీ పోలింగ్ స్టేషన్‌ను గుర్తించండి."
+          }
+        ]
+      },
+      "resources": {
+        "label": "వనరులు",
+        "title": "ఓటరు నమోదు మరియు ఎన్నికల సహాయానికి సహాయక లింకులు.",
+        "cards": [
+          {
+            "title": "CEO తెలంగాణ",
+            "text": "ఓటరు నమోదు, ఎన్నికల వార్తలు మరియు పోలింగ్ సమాచారం కోసం అధికారిక పోర్టల్."
+          },
+          {
+            "title": "భారత ఎన్నికల కమిషన్",
+            "text": "ఓటు హక్కులు, ఎన్నికల చట్టాలు మరియు పౌరులకు సహాయంకు జాతీయ వనరులు."
+          },
+          {
+            "title": "కమ్యూనిటీ సహాయం",
+            "text": "ఓటర్ విద్య, వీక్షణ సహాయం మరియు ఎన్నికల రోజు ప్రణాళిక కోసం స్థానిక సమూహాలను సంప్రదించండి."
+          }
+        ]
+      }
+    },
+    "footer": "తెలంగాణలో ఓటు హక్కుల అవగాహన పెంచడానికి రూపొందించబడింది. చర్య తీసుకోండి, సమాచారం తెలుసుకోండి, మరియు నమ్మకంతో ఓటు వేయండి."
+  }
+}
