@@ -302,6 +302,20 @@ nav a:hover {
   transform: translateY(-2px);
 }
 
+.btn-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+}
+
+.btn-icon svg {
+  width: 18px;
+  height: 18px;
+}
+
 .btn-primary,
 .btn-secondary {
   background: transparent;
@@ -310,7 +324,17 @@ nav a:hover {
   box-shadow: none;
 }
 
-.btn-primary:hover,
+.btn-primary {
+  background: #2D336B;
+  color: #ffffff;
+  border-color: #2D336B;
+}
+
+.btn-primary:hover {
+  background: #22295a;
+  color: #ffffff;
+}
+
 .btn-secondary:hover {
   background: rgba(120, 134, 199, 0.08);
 }
