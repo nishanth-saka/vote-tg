@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  const revealTargets = document.querySelectorAll('.hero-copy, .hero-visual, .info-card, .step-item, .resource-card, .section-heading');
+  const revealTargets = document.querySelectorAll('.hero-copy, .hero-visual, .info-card, .step-item, .resource-card, .section-heading, .timeline-card, .faq-item');
 
   const revealOnScroll = () => {
     const observer = new IntersectionObserver(
