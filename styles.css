@@ -615,6 +615,60 @@ nav a:hover {
   color: var(--text-muted);
 }
 
+.data-panel {
+  overflow: hidden;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  border-radius: 22px;
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  background: rgba(255, 255, 255, 0.72);
+  box-shadow: var(--shadow);
+}
+
+.data-table {
+  width: 100%;
+  min-width: 860px;
+  border-collapse: collapse;
+  color: var(--text);
+  font-size: 0.92rem;
+}
+
+.data-table th,
+.data-table td {
+  padding: 14px 16px;
+  border-bottom: 1px solid rgba(45, 51, 107, 0.1);
+  text-align: right;
+  vertical-align: top;
+}
+
+.data-table th {
+  font-weight: var(--font-sub);
+}
+
+.data-table thead th {
+  background: rgba(169, 181, 223, 0.25);
+  color: var(--surface-muted);
+  font-size: 0.78rem;
+  line-height: 1.35;
+}
+
+.data-table th:first-child,
+.data-table td:first-child {
+  text-align: left;
+}
+
+.data-table tbody th {
+  color: var(--surface-muted);
+  white-space: nowrap;
+}
+
+.data-table tbody tr:last-child th,
+.data-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
 footer {
   margin: 48px 0 20px;
   text-align: center;
@@ -812,5 +866,14 @@ footer {
 
   .faq-item div {
     padding: 0 20px 20px;
+  }
+
+  .data-table {
+    font-size: 0.85rem;
+  }
+
+  .data-table th,
+  .data-table td {
+    padding: 12px 14px;
   }
 }
