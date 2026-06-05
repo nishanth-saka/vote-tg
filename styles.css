@@ -159,7 +159,8 @@ nav {
   gap: 12px;
 }
 
-.faq-home-nav {
+.faq-home-nav,
+.language-nav {
   flex: 0 0 auto;
   width: auto;
 }
@@ -641,7 +642,8 @@ footer {
     justify-content: flex-end;
   }
 
-  .faq-home-nav {
+  .faq-home-nav,
+  .language-nav {
     margin-left: auto;
     width: auto;
   }
@@ -795,7 +797,8 @@ footer {
     justify-content: flex-start;
   }
 
-  .faq-home-nav {
+  .faq-home-nav,
+  .language-nav {
     justify-content: flex-end;
   }
 
