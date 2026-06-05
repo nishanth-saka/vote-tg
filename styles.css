@@ -159,6 +159,11 @@ nav {
   gap: 12px;
 }
 
+.faq-home-nav {
+  flex: 0 0 auto;
+  width: auto;
+}
+
 .header-socials {
   display: inline-flex;
   align-items: center;
@@ -358,15 +363,14 @@ nav a:hover {
   height: 42px;
   padding: 0 18px;
   border-radius: 999px;
-  background: transparent;
-  color: #2D336B;
-  border: 1px solid rgba(45, 51, 107, 0.42);
-  box-shadow: none;
+  background: #2D336B;
+  color: #ffffff;
+  border: 1px solid #2D336B;
 }
 
 .faq-button:hover {
-  background: rgba(45, 51, 107, 0.08);
-  color: #2D336B;
+  background: #22295a;
+  color: #ffffff;
 }
 
 .btn {
@@ -418,14 +422,14 @@ nav a:hover {
 }
 
 .btn-secondary.volunteer-button {
-  background: #2D336B;
-  color: #ffffff;
-  border-color: #2D336B;
+  background: transparent;
+  color: #2D336B;
+  border-color: rgba(45, 51, 107, 0.42);
 }
 
 .btn-secondary.volunteer-button:hover {
-  background: #22295a;
-  color: #ffffff;
+  background: rgba(45, 51, 107, 0.08);
+  color: #2D336B;
 }
 
 .btn-secondary:hover {
@@ -637,6 +641,11 @@ footer {
     justify-content: flex-end;
   }
 
+  .faq-home-nav {
+    margin-left: auto;
+    width: auto;
+  }
+
   .header-socials {
     margin-left: 0;
     padding-left: 0;
@@ -784,6 +793,10 @@ footer {
 @media (max-width: 620px) {
   .header-nav {
     justify-content: flex-start;
+  }
+
+  .faq-home-nav {
+    justify-content: flex-end;
   }
 
   .timeline-grid {
